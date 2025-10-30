@@ -51,8 +51,8 @@ A real-time chat platform with authentication and message storage features.
 ---
 
 ### 📊 GitHub Stats  
-![AM Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrahman-abdelrahman&show_icons=true&theme=graywhite&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-abdelrahman&layout=compact&theme=graywhite&hide_border=true)
+![AM Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aabdelrahman15-abdelrahman&show_icons=true&theme=graywhite&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aabdelrahman15-abdelrahman&layout=compact&theme=graywhite&hide_border=true)
 
 ---
 
